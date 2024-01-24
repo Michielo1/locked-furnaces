@@ -1,0 +1,9 @@
+main: com.michielo.Main
+name: LockedFurnaces
+version: '1.0'
+author: Michielo
+website: michielo.com
+api-version: 1.13
+
+commands:
+  lockedfurnaces:

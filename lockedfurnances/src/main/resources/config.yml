@@ -1,0 +1,12 @@
+##################
+# LockedFurnaces #
+##################
+
+# Do you need help setting up the config? Check the wiki at: [SOON]
+
+# In all furnaces, which items should be unable to be smolten unless unlocked?
+# Please note you can use also use special notations to for example lock all logs :)
+Default_locked: ["example", "%example"]
+
+
+Allow_bypass: True
