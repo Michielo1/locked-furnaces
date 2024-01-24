@@ -66,7 +66,7 @@ I used [this](https://minecraft.fandom.com/wiki/Smelting) source to get all thes
 | Stone | Polished_blackstone_bricks |
 | Blocks | Quartz_block |
 | Blocks | Terracotta |
-| Blocks | <color>_terracotta |
+| Blocks | **color**_terracotta |
 | Blocks | Sand |
 | Blocks | Red_sand |
 | Blocks | Wet_sponge |
@@ -76,6 +76,6 @@ I used [this](https://minecraft.fandom.com/wiki/Smelting) source to get all thes
 | Items | Chorus_fruit |
 | Items | Sea_pickle |
 | Items | Clay_ball |
-| Wood | <type>_log |
-| Wood | <type>_wood |
+| Wood | **type**_log |
+| Wood | **type**_wood |
 
