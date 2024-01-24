@@ -115,6 +115,7 @@ public class LockManager {
             Material.POLISHED_BLACKSTONE_BRICKS,
             Material.QUARTZ_BLOCK,
             Material.CLAY,
+            Material.TERRACOTTA,
             Material.BLACK_TERRACOTTA,
             Material.BLUE_TERRACOTTA,
             Material.BROWN_TERRACOTTA,
