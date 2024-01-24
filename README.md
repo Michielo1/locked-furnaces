@@ -1,4 +1,4 @@
-# locked-furnances
+# locked-furnaces
 Simply adds the ability to restrict furnances from smelting anything.
 
 # Items that can be locked or unlocked
