@@ -1,8 +1,33 @@
 # locked-furnaces
 Simply adds the ability to restrict furnances from smelting anything.
 
-# Items that can be locked or unlocked
+This is a Work-In-Progress plugin.
+Todo:
+- Add stripped wood & stripped logs
+- Add `Allow_bypass` functionality from config
 
+
+# Configuration
+The configuration is pretty straight-forward. When starting the server with this plugin enabled, you will get the follow config.yml:
+```
+##################
+# LockedFurnaces #
+##################
+
+# Do you need help setting up the config? Check the wiki at: [SOON]
+
+# In all furnaces, which items should be unable to be smolten unless unlocked?
+# Please note you can use also use special notations to for example lock all logs :)
+Default_locked: ["example", "%example"]
+
+
+Allow_bypass: True
+```
+
+In `Default_locked` you can add as many items from the list down below that will be blocked by default. As we for example have many types of logs, you can also add "%log" which will block any items from the list below with the word `log` in it.
+
+
+# Items that can be locked or unlocked
 I used [this](https://minecraft.fandom.com/wiki/Smelting) source to get all these items.
 
 | Category | Item |
