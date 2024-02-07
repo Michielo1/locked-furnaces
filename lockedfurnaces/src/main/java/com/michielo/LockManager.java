@@ -1,6 +1,5 @@
 package com.michielo;
 
-import org.bukkit.Bukkit;
 import org.bukkit.ChatColor;
 import org.bukkit.Material;
 import org.bukkit.block.Block;
@@ -150,7 +149,20 @@ public class LockManager {
             Material.OAK_WOOD,
             Material.MANGROVE_WOOD,
             Material.SPRUCE_WOOD,
-            // TODO: add stripped logs, stripped wood
+            Material.STRIPPED_ACACIA_LOG,
+            Material.STRIPPED_BIRCH_LOG,
+            Material.STRIPPED_CHERRY_LOG,
+            Material.STRIPPED_JUNGLE_LOG,
+            Material.STRIPPED_OAK_LOG,
+            Material.STRIPPED_MANGROVE_LOG,
+            Material.STRIPPED_SPRUCE_LOG,
+            Material.STRIPPED_ACACIA_WOOD,
+            Material.STRIPPED_BIRCH_WOOD,
+            Material.STRIPPED_CHERRY_WOOD,
+            Material.STRIPPED_JUNGLE_WOOD,
+            Material.STRIPPED_OAK_WOOD,
+            Material.STRIPPED_MANGROVE_WOOD,
+            Material.STRIPPED_SPRUCE_WOOD,
     };
 
     /*
